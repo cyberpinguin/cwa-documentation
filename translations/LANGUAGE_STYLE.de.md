@@ -4,6 +4,7 @@
 Vorurteilsfreie Kommunikation bedeutet keine Stereotypisierung oder Diskriminierung von Menschen. Es geht darum, alle auf faire und respektvolle Weise zu behandeln. Dies bezieht sich auf verschiedene Dimensionen der Identität einer Person, wie Kultur, Geschlecht, Nationalität, ethnische Zugehörigkeit, Alter, wirtschaftlicher Hintergrund, Religion, sexuelle Orientierung oder besondere Bedürfnisse (Behinderungen). Diese Leitlinien berücksichtigen wir bei allen Veröffentlichungen in diesem Repository.
 
 ## Geschlecht und geschlechtsneutrale Sprache
+- Wo möglich nutzen wir aktive Sprache anstatt der Passivform z.B.: "Ändere Deine Einstellungen" statt "Die Person kann ihre Einstellungen ändern".
 - Wir nutzen geschlechtsneutrale Terminologie, zum Beispiel "Abteilungsleitung" anstelle von "Abteilungsleiter". 
 - Wir wenden diese Regel ausschließlich auf Begriffe an, die sich auf natürliche Personen beziehen. Begriffe, die ein maskulines oder feminines grammatikalisches Geschlecht haben, aber im Text keine natürliche Person beschreiben, können weiterhin uneingeschränkt benutzt werden. Beispiel: Die Verwendung von "Auftraggeber" für juristische Personen wie Firmen, Institutionen usw.
 - Wir vermeiden die maskulinen Singular-Pronomen "er", "ihn", "ihm" in generischen Aussagen wie zum Beispiel "Ein Nutzer kann seinen Bildschirm personalisieren". Besser: "Eine Person kann ihren Bildschirm personalisieren"
