@@ -41,4 +41,4 @@ Sofern nicht durch anwendbares Recht gefordert oder schriftlich vereinbart, wird
 
 ## Informationen zur Teilnahme
 
-Weitere Informationen z.B. darüber, wie man das Projekt unterstützen kann, unser Team aufgebaut ist oder unsere Projektstruktur aussieht, finden Sie hier: [CONTRIBUTING.md](../CONTRIBUTING.md).
+Weitere Informationen z.B. darüber, wie Sie das Projekt unterstützen können, unser Team aufgebaut ist oder unsere Projektstruktur aussieht, finden Sie hier: [CONTRIBUTING.md](../CONTRIBUTING.md).
