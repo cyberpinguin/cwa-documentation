@@ -36,7 +36,7 @@ Anhand einer User Journey (Nutzungsreise) sind die Interaktionspunkte und das Er
 Folgende wesentliche Nutzungsprofile bzw. Stakeholder sind in die User Journey bzw. in den Gesamtprozess eingebunden und in ihrer Rolle beschrieben:
 
 #### App-Bedienung
-Alle Personen, welche die App benutzen: Werden über mögliche Begegnungen mit infizierten Personen informiert, verifizieren eigene Testergebnisse bzw. warnen dann alle begegneten Personen freiwillig und pseudonym.
+Alle Personen, welche die App benutzen, werden über mögliche Begegnungen mit infizierten Personen informiert, verifizieren eigene Testergebnisse bzw. warnen dann alle begegneten Personen freiwillig und pseudonym.
 
 #### Hotlines
 Unterstützen Personen bei der Bedienung der App in der Beantwortung von Fragestellungen zur Nutzung der App, zur Technik, zum Datenschutz und geben auf Nachfrage verhaltensbezogene Informationen sowie weitere Informationsmöglichkeiten im Kontakt- bzw. Infektionsfall weiter.
@@ -65,11 +65,11 @@ Die Phase der Anwendung ist in vier weitere Bereiche unterteilt, in welchen die 
 
 2. **Kontaktfall**
 
-   Im festgestellten Kontaktfall zu infizierten Personen erhält der Person jeweils eine Benachrichtigung und verhaltensbezogene Empfehlungen. Hier kann zum Beispiel die Kontaktaufnahme mit dem ärztlichen Fachpersonal, mit dem zuständigen Gesundheitsamt und/oder die freiwillige häusliche Isolation empfohlen werden.
+   Im festgestellten Kontaktfall zu infizierten Personen erhält die Person jeweils eine Benachrichtigung und verhaltensbezogene Empfehlungen. Hier kann zum Beispiel die Kontaktaufnahme mit dem ärztlichen Fachpersonal, mit dem zuständigen Gesundheitsamt und/oder die freiwillige häusliche Isolation empfohlen werden.
 
 3. **Testing**
 
-   Im Fall eines durchgeführten Tests auf eine SARS-CoV-2-Infektion kann die Person über die App den digitalen Testinformationsprozess starten und damit über das ermittelte Testergebnis benachrichtigt werden.
+   Im Fall eines durchgeführten Tests auf eine SARS-CoV-2-Infektion, kann die Person über die App den digitalen Testinformationsprozess starten und damit über das ermittelte Testergebnis benachrichtigt werden.
 
 4. **Infektfall**
 
@@ -114,7 +114,7 @@ Die zugehörigen Akzeptanzkriterien ergänzen die Spezifikation der Anforderunge
 | E01.02          | Bei der Nutzung der App möchte ich beim erstmaligem Applikationsstart über die Nutzungsbedingungen und Datenschutzbestimmungen (Data Protection Screen) informiert werden und meine Zustimmung geben, um über den Umgang mit meinen Daten innerhalb der Anwendung aufgeklärt zu sein. | 1. Mit Nutzung der App akzeptiert die Person die Nutzungsbedingungen und Datenschutzbestimmungen. <hr/> 2. Die Nutzungsbedingungen sind innerhalb der App einsehbar. <hr/> 3 Die Abfrage erfolgt nur bei der erstmaligen Nutzung.
 | E01.03          | Bei der erstmaligen Nutzung der App möchte ich gefragt werden, ob ich der Erstellung pseudonymer IDs und deren Aussendung an Geräte in meiner Nähe durch die App zustimme, damit ich über die Funktionsweise der Applikation informiert bin. | 1. Eine Bestätigung der Erstellung pseudonymer IDs und deren Aussendung an Geräte in der Nähe durch die Applikation ist Voraussetzung für die App-Nutzung. <hr/> 2. Nach der erstmaligen Nutzung erfolgt die Abfrage nicht.
 | E01.04          | Bei der erstmaligen Nutzung der App möchte ich gefragt werden, ob die Applikation auf die Bluetooth-Funktion des Smartphones zugreifen darf, damit ich die mobiltelefonseitige Nutzung der Applikation kontrollieren kann. | 1. Eine Bestätigung der Bluetooth-Nutzung (BLE) erfolgt durch die Nutzung der Applikation.
-| E01.05          | Bei der erstmaligen Nutzung der App möchte ich gefragt werden, ob die Applikation mir Benachrichtigungen schicken darf, damit in verschiedenen Situationen Push-Notifications ausgespielt werden können. | 1. Eine Abfrage zu den Benachrichtigungseinstellungen der Applikation findet vor erstmaliger Nutzung statt. <hr/> 2. Nach der erstmaligen Nutzung erfolgt die Abfrage nicht.
+| E01.05          | Bei der erstmaligen Nutzung der App möchte ich gefragt werden, ob die Applikation mir Benachrichtigungen schicken darf, damit in verschiedenen Situationen Benachrichtigungen angezeigt werden können. | 1. Eine Abfrage zu den Benachrichtigungseinstellungen der Applikation findet vor erstmaliger Nutzung statt. <hr/> 2. Nach der erstmaligen Nutzung erfolgt die Abfrage nicht.
 | E01.06          | Bei der erstmaligen Nutzung der App möchte ich meine Sprache angezeigt bekommen, damit die Nutzung der App für mich verständlich ist. | 1. Erkennung der eingestellten Systemsprache wird durchgeführt. <hr/> 2. Wenn die erkannte Systemsprache nicht im Content hinterlegt ist, wird im Default Englisch ausgewählt. <hr/> 3. In der ersten Version der App ist Mehrsprachigkeit vorgesehen.
 | E01.07          | Bei der Nutzung der App möchte ich bereits während des Onboardings Hilfen und Einstellungen zur Barrierefreiheit bekommen, um die App nutzen zu können. | 1. Die Barrierefreiheit wird im Rahmen der Möglichkeiten der Version des jeweils hinterlegten Betriebssystems verfügbar gemacht.
 
